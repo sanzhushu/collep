@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <h1>小黑子</h1>
     <HelloWorld msg="Welcome to Your Vue.js App(周)"/>
+    <h2>周树标</h2>
   </div>
 </template>
 
