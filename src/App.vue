@@ -6,9 +6,8 @@
     <h1>双流机场你</h1>
     <HelloWorld msg="Welcome to Your Vue.js App(周)" />
     <h2>llll</h2>
-    <h2>enen</h2>
     <h2>周树标</h2>
-    <h1>xxxx</h1>
+     <h2>周树标</h2>
     <p>夏航铂</p>
     <p>夏航铂</p>
     <h1>1221</h1>
