@@ -1,10 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
     <h1>小黑子</h1>
     <h3>dsfrhgfherew</h3>
     <h1>双流机场你</h1>
-    <HelloWorld msg="Welcome to Your Vue.js App(周)" />
     <h2>llll</h2>
     <h2>周树标</h2>
      <h2>周树标</h2>
@@ -15,6 +13,8 @@
     <h1>bjyiszd</h1>
     <p>蔡徐坤哈哈哈哈哈哈</p>
     <p>1212</p>
+    <p>功能3</p>
+    <h2>功能5(周树标)</h2>
   </div>
 </template>
 
