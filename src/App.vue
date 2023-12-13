@@ -12,12 +12,10 @@
     <p>123</p>
     <h1>bjyiszd</h1>
     <p>蔡徐坤哈哈哈哈哈哈</p>
-<<<<<<< HEAD
     <p>qsdadhhhhhhh</p>
-=======
     <p>功能3</p>
     <h2>功能5(周树标)</h2>
->>>>>>> 15ad5d51f2ee34178ad476ae6810573ab69fdf5f
+    <h2>我爱吃西瓜</h2>
   </div>
 </template>
 
